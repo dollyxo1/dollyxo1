@@ -22,7 +22,7 @@ I bridge the gap between technical data analysis and high-end visual storytellin
 
 ### 📌 Featured Projects
 
-#### 🎮 [Random Character Selector — Marvel Rivals & Valorant](https://github.com/your-username/your-repo-link)
+#### 🎮 [Random Character Selector — Marvel Rivals & Valorant](https://github.com/dollyxo1/Valorant-And-Rivals-Character-Picker-using-random-)
 * **Tech:** Python, Algorithmic Selection Logic
 * Built a python-based tool to tackle choice paralysis in competitive gaming setups using randomized weighted logic, custom dictionaries, and clean data structures.
 
