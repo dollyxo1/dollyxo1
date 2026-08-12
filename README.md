@@ -1,4 +1,4 @@
-# Hi there, I'm Owam 👋 
+# Hi there, I'm Dolly 👋 
 
 ### 🚀 Creative Visual Specialist & Aspiring Data Scientist
 
