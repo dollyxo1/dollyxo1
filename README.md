@@ -1,4 +1,4 @@
-# Hi there, I'm Dolly 👋 
+# Hi there, I'm Owam 👋 
 
 ### 🚀 Creative Visual Specialist & Aspiring Data Scientist
 
@@ -22,6 +22,10 @@ I bridge the gap between technical data analysis and high-end visual storytellin
 
 ### 📌 Featured Projects
 
+#### 🎬 [Video Editing & 3D Visualization Portfolio](https://app.notion.com/p/Dolly-32e77a0ae14f80d4b6bcfc38eab57476?source=copy_link)
+* **Tools:** Blender, Premiere Pro, After Effects, Photoshop
+* Features commercial, high-pacing video post-production, motion graphics, and creative direction work.
+  
 #### 🎮 [Random Character Selector — Marvel Rivals & Valorant](https://github.com/dollyxo1/Valorant-And-Rivals-Character-Picker-using-random-)
 * **Tech:** Python, Algorithmic Selection Logic
 * Built a python-based tool to tackle choice paralysis in competitive gaming setups using randomized weighted logic, custom dictionaries, and clean data structures.
