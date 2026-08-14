@@ -30,7 +30,7 @@ I bridge the gap between technical data analysis and high-end visual storytellin
 * **Tech:** Python, Algorithmic Selection Logic
 * Built a python-based tool to tackle choice paralysis in competitive gaming setups using randomized weighted logic, custom dictionaries, and clean data structures.
 
-#### 🎨 3D Product Visualization & Brand Media
+#### 🎨 [3D Product Visualization & Brand Media](https://app.notion.com/p/Dolly-3D-3bc77a0ae14f803e96d0de1dd7dca341?source=copy_link)
 * **Tools:** Blender, Premiere Pro, Photoshop
 * Designed high-end 3D product visualizations, motion graphics, and targeted visual content for commercial and cosmetic brands.
 
