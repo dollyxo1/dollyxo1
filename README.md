@@ -46,4 +46,4 @@ I bridge the gap between technical data analysis and high-end visual storytellin
 ### 📫 Connect With Me
 
 * **Email:** [dolly3dwork@gmail.com](mailto:dolly3dwork@gmail.com)
-* **Location:** Sandton, Johannesburg, South Africa
+* **Location:** Johannesburg, South Africa
